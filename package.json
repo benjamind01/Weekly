@@ -1,0 +1,23 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-vue": "^3.2.0",
+        "@vue/compiler-sfc": "^3.2.41",
+        "autoprefixer": "^10.4.13",
+        "postcss": "^8.4.18",
+        "tailwindcss": "^3.2.2",
+        "vite": "^3.2.3",
+        "vite-plugin-laravel": "^0.2.2"
+    },
+    "dependencies": {
+        "@inertiajs/inertia": "^0.11.1",
+        "@inertiajs/inertia-vue3": "^0.6.0",
+        "v-password-strength-meter": "^1.0.4",
+        "vue": "^3.2.36",
+        "vue-password": "^3.1.0"
+    }
+}
